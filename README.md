@@ -60,12 +60,7 @@ To use the dataset:
 
 Run the training and evaluation notebook:
 ```bash
-jupyter notebook 04_training_and_evaluation.ipynb
-```
-
-To test the trained model:
-```bash
-python inference_api.py
+jupyter notebook fraud_detection_GCN.ipynb
 ```
 
 ## Model Architecture
