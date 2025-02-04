@@ -30,8 +30,8 @@ This project implements an advanced Graph Convolutional Network (GCN) model to d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourname/fraud-detection-gcn.git
-   cd fraud-detection-gcn
+   git clone https://github.com/yohanzytoon/blockchainFraudDetection.git
+   cd blockchainFraudDetection
    ```
 
 2. Create a virtual environment and activate it:
