@@ -1,0 +1,25 @@
+# Core data and numeric libraries
+pandas>=1.3
+numpy>=1.21
+scikit-learn>=1.0
+matplotlib>=3.5
+seaborn>=0.11
+networkx>=2.6
+
+# PyTorch and PyTorch Geometric
+torch>=1.9
+torch-geometric>=2.0
+
+# API and related tools
+fastapi>=0.75
+uvicorn>=0.17
+
+# Configuration and logging
+pyyaml>=5.4
+
+# For Jupyter notebooks
+jupyter
+
+# (Optional) For advanced scheduling or instrumentation, you might add:
+# tensorboard>=2.7
+# or any other relevant libraries.
