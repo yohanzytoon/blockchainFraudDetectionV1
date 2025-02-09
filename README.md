@@ -122,7 +122,7 @@ model.load_state_dict(torch.load('best_advanced_gcn_model.pt'))
 
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source 
 
 ## Acknowledgments
 This project is built using PyTorch Geometric and inspired by research in blockchain fraud detection.
