@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an advanced Graph Convolutional Network (GCN) model to detect fraudulent Bitcoin transactions using the Elliptic dataset. The dataset represents Bitcoin transactions as nodes and their connections as edges, allowing for a graph-based approach to fraud detection.
+This project implements a Graph Convolutional Network (GCN) model to detect fraudulent Bitcoin transactions using the Elliptic dataset. The dataset represents Bitcoin transactions as nodes and their connections as edges, allowing for a graph-based approach to fraud detection.
 
 ## Features
 
